@@ -10,7 +10,6 @@
 
 echo "Ceci est du texte"; /* Ceci est affiché 
                             dans la page */
-
 ?>  
 </body>
 </html>
