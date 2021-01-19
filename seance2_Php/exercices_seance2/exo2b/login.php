@@ -1,7 +1,9 @@
 <?php
 // $pseudo = $_POST['pseudo'];
 // $mdp = $_POST['mdp'];
-session_start();
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
+}
 if (isset($_POST['pseudo']) && isset($_POST['mdp'])) {
 // $_SESSION['pseudo'] = $pseudo;
 // $_SESSION['mdp'] = $mdp;
