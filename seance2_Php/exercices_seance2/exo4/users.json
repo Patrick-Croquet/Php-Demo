@@ -1,0 +1,42 @@
+{   
+    "time": 
+    {   "updated": "Jan 21, 2021 11:36:00 UTC", 
+        "updatedISO": "2021-01-21T11:36:00+00:00", 
+        "updateduk": "Jan 21, 2021 at 11:36 GMT" 
+    }, 
+    "disclaimer": "This data was produced from users", 
+    "chartName": "Users", 
+    "users": 
+    [ 
+        { 
+        "id":1,
+        "pseudo": "Jean",
+        "password": "Jean",
+        "Detail":
+        { 
+        "firstname": "Jean",
+        "lastname": "Dupont"
+        }
+        },
+        {  
+        "id":2,
+        "pseudo": "Joe",
+        "password": "Joe",
+        "Detail":
+        { 
+        "firstname": "Joe",
+        "lastname": "Dupré"
+        }
+        }, 
+        { 
+        "id":3,
+        "pseudo": "Clémentine",
+        "password": "Clémentine",
+        "Detail":
+        { 
+        "firstname": "Clémentine",
+        "lastname": "Dujardin"
+        }
+        } 
+    ]
+}
