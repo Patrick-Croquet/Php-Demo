@@ -37,6 +37,16 @@
         "firstname": "Clémentine",
         "lastname": "Dujardin"
         }
+        }, 
+        { 
+        "id":4,
+        "pseudo": "Patrick",
+        "password": "Patrick",
+        "Detail":
+        { 
+        "firstname": "Patrick",
+        "lastname": "Croquet"
+        }
         } 
     ]
 }

@@ -11,8 +11,8 @@ $login = json_decode($myJson, true);
 //    echo $key . "=>" . $value . "<br>";
 //}
 //echo "<hr>";
-//var_dump($login['users'][1]);
-//echo $login['users'][1]['Detail']['firstname'];
+//var_dump($login['users'][2]);
+//echo $login['users'][2]['Detail']['firstname'];
 //array_walk_recursive($array, "user"); // premier argument est un array et deuxième est une fonction.
 
 // $pseudo = $_POST['pseudo'];
