@@ -1,5 +1,5 @@
 <p>Bonjour <?php echo $_POST['prenom'] . ' ' . $_POST['nom']; ?> !</p>
-
+<p><?php echo $_POST['pseudo'] ?></p>
 <pre>
 <?php print_r($_POST); ?>
 </pre>

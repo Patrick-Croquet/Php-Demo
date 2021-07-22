@@ -14,6 +14,9 @@
         <label for="prenom">Prénom : </label><input type="text" name="prenom" />
         </p>
         <p>
+        <label for="pseudo">Pseudo : </label><input type="text" name="pseudo" />
+        </p>
+        <p>
         <input type="submit" value="Valider" />
         </p>
     </form>
