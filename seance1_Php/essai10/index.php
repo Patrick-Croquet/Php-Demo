@@ -6,5 +6,5 @@ $coordonnees = array (
 'adresse' => '3 Rue du Paradis',
 'ville' => 'Marseille');
 
-echo $coordonnees['adresse']; // affiche 3 Rue du Paradis
+echo $coordonnees['nom']; // affiche 3 Rue du Paradis
 ?>

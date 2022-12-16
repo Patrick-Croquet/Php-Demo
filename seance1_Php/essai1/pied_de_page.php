@@ -2,5 +2,5 @@
 
 ?>
 <footer>
-    <p>Copyright &copy; 2016</p>
+    <p>Copyright &copy; 2022</p>
 </footer>

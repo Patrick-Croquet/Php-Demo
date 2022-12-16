@@ -1,5 +1,5 @@
 <?php
-$age = 15;
+$age = 8;
 if ($age <= 12) // SI l'âge est inférieur ou égal à 12
 {
 echo "Salut gamin ! Bienvenue sur mon site !<br />";

@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 <?php
 $phrase = 'Bonjour ! Je suis une phrase !';
 $longueur = strlen($phrase);
@@ -29,5 +38,7 @@ $annee = date('Y');
 $heure = date('H');
 $minute = date('i');
 // Maintenant on peut afficher ce qu'on a recueilli
-echo 'Bonjour ! Nous sommes le ' . $jour . '/' . $mois . '/' . $annee . 'et il est ' . $heure. ' h ' . $minute;
+echo 'Bonjour ! Nous sommes le ' . $jour . '/' . $mois . '/' . $annee . ' et il est ' . $heure. ' h ' . $minute;
 ?>
+</body>
+</html>

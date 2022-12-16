@@ -1,5 +1,5 @@
 <?php
-$db = new PDO('mysql:host=localhost;dbname=test','root','root');
+$db = new PDO('mysql:host=localhost;dbname=blog','root','Formateur');
 
 //$sql = 'SELECT * FROM `news`';
 //$sql = 'SELECT auteur, titre, contenu FROM news';
