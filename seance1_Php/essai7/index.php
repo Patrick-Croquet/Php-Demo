@@ -20,7 +20,9 @@ echo $ma_variable;
 echo "<br /><br />";
 
 $chaine = 'Cette chaîne va être mélangée !';
-$chaine = str_shuffle($chaine); // encodage en utf8
+$chaine = mb_convert_encoding($chaine, "ISO-8859-1");
+//$chaine = str_shuffle($chaine); // encodage en utf8
+$chaine = utf8_encode(str_shuffle($chaine));
 echo $chaine;
 
 echo "<br /><br />";
