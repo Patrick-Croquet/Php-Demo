@@ -8,8 +8,7 @@
 <body>
 <?php 
 
-echo "<h1>Ceci est du <a href='https://afpa.fr'>texte</a></h1>"; /* Ceci est affiché 
-                            dans la page */
+echo "<h1>Ceci est du <a href='https://afpa.fr'>texte</a></h1>"; /* Ceci est affiché dans la page */
 ?>  
 </body>
 </html>
